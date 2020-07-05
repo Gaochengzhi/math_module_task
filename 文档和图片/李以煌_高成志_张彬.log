@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.6.27)  5 JUL 2020 10:22
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.6.27)  5 JUL 2020 10:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -373,8 +373,7 @@ LaTeX Info: Redefining \] on input line 2860.
 Package: xeCJK-listings 2020/02/18 v3.8.2 xeCJK patch file for listings
 \l__xeCJK_listings_max_char_int=\count301
 \l__xeCJK_listings_flag_int=\count302
-)
-No file 李以煌_高成志_张彬.aux.
+) (./李以煌_高成志_张彬.aux)
 \openout1 = `李以煌_高成志_张彬.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
@@ -393,7 +392,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
-ABD: EverySelectfont initializing macros
+ ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 13.
 
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
@@ -454,19 +453,18 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 \c@lstlisting=\count303
  [1
 
-] [2]
-No file 李以煌_高成志_张彬.toc.
+] [2] (./李以煌_高成志_张彬.toc
+
+LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <10.53937> not available
+(Font)              size <10.95> substituted on input line 2.
+
+LaTeX Font Info:    Font shape `TU/FandolSong-Regular(0)/m/sl' in size <10.53937> not available
+(Font)              Font shape `TU/FandolSong-Regular(0)/m/it' tried instead on input line 33.
+[3])
 \tf@toc=\write3
 \openout3 = `李以煌_高成志_张彬.toc'.
 
-LaTeX Font Info:    Font shape `TU/FandolSong-Regular(0)/m/sl' in size <10.53937> not available
-(Font)              Font shape `TU/FandolSong-Regular(0)/m/it' tried instead on input line 32.
-[3] [4]
-
-LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <10.53937> not available
-(Font)              size <10.95> substituted on input line 70.
-
-
+ [4] [5]
 Overfull \hbox (53.37354pt too wide) in paragraph at lines 80--99
  [][] 
  []
@@ -481,17 +479,11 @@ Overfull \hbox (12.09082pt too wide) in paragraph at lines 108--123
  []
 
 
-LaTeX Warning: Citation `bib1' on page 5 undefined on input line 126.
-
-
-LaTeX Warning: Citation `usaCdc' on page 5 undefined on input line 128.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 126--130
 
  []
 
-[5]
+[6]
 Underfull \hbox (badness 10000) in paragraph at lines 130--135
 
  []
@@ -506,7 +498,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 139--143
 
  []
 
-[6]
+[7]
 File: 2.png Graphic file (type bmp)
 <2.png>
 
@@ -530,7 +522,7 @@ File: 3.png Graphic file (type bmp)
 <3.png>
 File: 4.png Graphic file (type bmp)
 <4.png>
-[7] [8] [9]
+[8] [9] [10]
 File: liu.png Graphic file (type bmp)
 <liu.png>
 
@@ -550,10 +542,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 273--275
 
  []
 
-
-LaTeX Warning: Citation `bib2' on page 10 undefined on input line 276.
-
-[10]
+[11]
 Underfull \hbox (badness 10000) in paragraph at lines 281--283
 
  []
@@ -562,7 +551,7 @@ File: 7.png Graphic file (type bmp)
 <7.png>
 File: 8.png Graphic file (type bmp)
 <8.png>
-[11] [12]
+[12] [13]
 File: 9.png Graphic file (type bmp)
 <9.png>
 
@@ -572,19 +561,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 325--327
 
 File: 11.png Graphic file (type bmp)
 <11.png>
-[13]
+[14]
 File: 12.png Graphic file (type bmp)
 <12.png>
- [14]
+ [15]
 File: 13.png Graphic file (type bmp)
 <13.png>
-
-
-LaTeX Warning: Citation `bib3' on page 15 undefined on input line 376.
-
 File: 14.png Graphic file (type bmp)
 <14.png>
-[15]
+ [16]
 Underfull \hbox (badness 10000) in paragraph at lines 395--397
 
  []
@@ -599,11 +584,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 407--410
 
  []
 
-[16]
-
-LaTeX Warning: Citation `usaCdc' on page 17 undefined on input line 411.
-
-
+[17]
 Underfull \hbox (badness 10000) in paragraph at lines 411--413
 
  []
@@ -611,18 +592,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 411--413
 File: caseIncrease.png Graphic file (type bmp)
 <caseIncrease.png>
 
-LaTeX Warning: Citation `papercdc' on page 17 undefined on input line 422.
-
-
-LaTeX Warning: Citation `papercdc' on page 17 undefined on input line 432.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 432--433
 
  []
-
-
-LaTeX Warning: Citation `nyt' on page 17 undefined on input line 435.
 
 File: nyt.png Graphic file (type bmp)
 <nyt.png>
@@ -631,37 +603,97 @@ Underfull \hbox (badness 10000) in paragraph at lines 450--455
 
  []
 
-[17]
-
-LaTeX Warning: Citation `bib4' on page 18 undefined on input line 465.
-
-
+[18]
 Underfull \hbox (badness 10000) in paragraph at lines 461--466
 
  []
-
-
-LaTeX Warning: Citation `bib5' on page 18 undefined on input line 468.
-
-
-LaTeX Warning: Citation `bib6' on page 18 undefined on input line 476.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 471--481
 
  []
 
-[18]
-
-LaTeX Warning: Citation `wol' on page 19 undefined on input line 483.
-
-
+[19]
 Underfull \hbox (badness 10000) in paragraph at lines 482--485
 
  []
 
 
-LaTeX Warning: Citation `bib8' on page 19 undefined on input line 491.
+Underfull \hbox (badness 10000) in paragraph at lines 490--494
+
+ []
+
+File: 20.png Graphic file (type bmp)
+<20.png>
+
+Overfull \hbox (5.118pt too wide) in paragraph at lines 503--504
+ [][] 
+ []
+
+File: raw.jpg Graphic file (type bmp)
+<raw.jpg>
+
+Overfull \hbox (5.118pt too wide) in paragraph at lines 508--509
+ [][] 
+ []
+
+File: sim.png Graphic file (type bmp)
+<sim.png>
+File: presim.png Graphic file (type bmp)
+<presim.png>
+[20] [21]
+Underfull \hbox (badness 10000) in paragraph at lines 528--531
+
+ []
+
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 544--546
+
+ []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 490--4
+Underfull \hbox (badness 10000) in paragraph at lines 553--555
+
+ []
+
+[23]
+Overfull \hbox (5.04837pt too wide) in paragraph at lines 565--566
+[]\TU/lmr/m/n/10.53937 https://web.phb123.com/city/renkou/city_241.html?ivk_sa=1023345q 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 579--580
+[]\TU/lmr/m/n/10.53937 https://www.nytimes.com/interactive/2020/us/states-reopen-map-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 581--582
+[]\TU/lmr/m/n/10.53937 https://www.cdc.gov/coronavirus/2019-ncov/covid-
+ []
+
+
+Underfull \hbox (badness 1163) in paragraph at lines 583--585
+\TU/lmr/m/n/10.53937 Columbia University. ShamanProjection of COVID-19 Cases and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 586--587
+[]\TU/lmr/m/n/10.53937 https://www.wolframphysics.org/technical-introduction/potential-
+ []
+
+[24] [25] [26] [27] [28] [29] [30] [31] [32] [33] [34] [35] [36] [37] [38] [39] (./李以煌_高成志_张彬.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 0.41063pt have occurred.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 10415 strings out of 479418
+ 276407 string characters out of 5884585
+ 622799 words of memory out of 5000000
+ 27770 multiletter control sequences out of 15000+600000
+ 537704 words of font info for 75 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 58i,9n,81p,472b,1497s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on 李以煌_高成志_张彬.pdf (39 pages).
