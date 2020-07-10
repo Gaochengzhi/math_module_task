@@ -13,7 +13,18 @@
 3. 通过数据分析对比中国新冠传播与美国新冠传播的区别。 
 4. 预测美国新冠感染人数在六月份的数据。
 
+## Latex 文档使用方法：
 
+克隆该仓库：
 
+将工作目录切换为文档和图片。
 
+使用您最喜欢的编译器打开（以vim为例）。
 
+```bash
+git clone https://github.com/Gaochengzhi/math_module_task.git
+cd 'math model/文档和图片'
+vim *.tex
+```
+
+然后编译就可以得到相应的pdf 文档。

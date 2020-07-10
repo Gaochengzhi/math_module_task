@@ -5,8 +5,8 @@
 \contentsline {section}{\numberline {3}模型假设}{6}%
 \contentsline {subsection}{\numberline {3.1}假设条件}{6}%
 \contentsline {subsection}{\numberline {3.2}符号说明}{6}%
-\contentsline {subsection}{\numberline {3.3}图表说明}{6}%
-\contentsline {subsection}{\numberline {3.4}数据来源\&采集}{6}%
+\contentsline {subsection}{\numberline {3.3}图表说明}{7}%
+\contentsline {subsection}{\numberline {3.4}数据来源\&采集}{7}%
 \contentsline {subsection}{\numberline {3.5}国内病毒传播数据的统计分析}{8}%
 \contentsline {subsubsection}{\numberline {3.5.1}数据处理}{8}%
 \contentsline {subsubsection}{\numberline {3.5.2}SEIR传染病模型的描述}{10}%
@@ -14,17 +14,17 @@
 \contentsline {subsubsection}{\numberline {3.5.4}模型的调优与拟合}{12}%
 \contentsline {subsection}{\numberline {3.6}各省新冠传播情况的分析}{14}%
 \contentsline {subsubsection}{\numberline {3.6.1}数据处理}{14}%
-\contentsline {subsubsection}{\numberline {3.6.2}数据分析}{15}%
+\contentsline {subsubsection}{\numberline {3.6.2}数据分析}{14}%
 \contentsline {paragraph}{ “河南省2020年2月16日感染确诊人数在非湖北省排名第二仅次于广东省，但是河南第一代感染基数大。 地理位置上河南和湖北相邻，郑州又是全国交通枢纽。河南省作为一个外出务工人员大省，有很多从湖北返乡务工人员，由于湖北及全国官方通报延迟导致隔离确诊措施延迟，二代三代患者迅速生成相继发病。一代重症患者没有得到及时隔离救治，一二代轻症患者发展成重症患者造成救治困难。” \\\hspace *{\fill }\\ }{16}%
-\contentsline {subsection}{\numberline {3.7}美国新冠病毒传播数据的统计分析}{17}%
-\contentsline {subsubsection}{\numberline {3.7.1}数据处理}{17}%
+\contentsline {subsection}{\numberline {3.7}美国新冠病毒传播数据的统计分析}{16}%
+\contentsline {subsubsection}{\numberline {3.7.1}数据处理}{16}%
 \contentsline {subsubsection}{\numberline {3.7.2}数据分析}{17}%
 \contentsline {paragraph}{ "In March and April 2020, control measures enforcing social distancing and restricting individual movement and contact were adopted across the United States in an effort to slow the spread and growth of COVID-19. However, a number of states have now begun to ease these restrictions."\cite {papercdc} }{18}%
-\contentsline {subsection}{\numberline {3.8}美国新冠病毒传播的预测}{19}%
-\contentsline {subsubsection}{\numberline {3.8.1}元胞自动机模型的描述}{19}%
+\contentsline {subsection}{\numberline {3.8}美国新冠病毒传播的预测}{18}%
+\contentsline {subsubsection}{\numberline {3.8.1}元胞自动机模型的描述}{18}%
 \contentsline {subsubsection}{\numberline {3.8.2}模型实现}{20}%
 \contentsline {subsubsection}{\numberline {3.8.3}模型的调优与拟合}{20}%
-\contentsline {section}{\numberline {4}模型评价\&改进}{22}%
+\contentsline {section}{\numberline {4}模型评价\&改进}{21}%
 \contentsline {section}{\numberline {5}附录}{25}%
 \contentsline {subsection}{\numberline {5.1}声明}{25}%
 \contentsline {subsection}{\numberline {5.2}domestic.m}{25}%
